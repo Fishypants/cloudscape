@@ -29,8 +29,8 @@ Nothing to install, and it works offline. It needs **WebGL2** with floating-poin
 
 | | |
 |---|---|
-| ![Hero](sunrise.jpg) |
-| ![Sunrise](sunrise.jpg) | ![Sun shafts through the clouds](sun-shafts.jpg) |
+| ![Hero](hero.jpg) | ![Sunrise](sunrise.jpg) |
+| ![Sun shafts through the clouds](sun-shafts.jpg)
 
 ## Controls
 
